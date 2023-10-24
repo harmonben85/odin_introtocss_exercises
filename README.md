@@ -1,1 +1,1 @@
-# odin_introtocss_exercises
+This assignment is from my first day of learning CSS with The Odin Project.  
